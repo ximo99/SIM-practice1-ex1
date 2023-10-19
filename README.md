@@ -3,7 +3,7 @@ Simulation subject within the Multimedia Engineering degree from the ETSE - Univ
 
 An inclined plane had to be simulated with a mass, also inclined, subject to the force of two springs, using numerical integration methods.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/ximo99/SIM-practice1-ex1/blob/main/ex1-photo.jpg)
 
 ### ENGLISH
 Considering a particle of mass 𝑚, located on an inclined plane, whose inclination is 𝜃 degrees, and whose length is 𝐿. The particle is held at both ends of the inclined plane by two springs. Each of the two springs has a different spring constant and resting elongation.

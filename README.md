@@ -1,4 +1,4 @@
-﻿# SIM Practice 1 (exercice 1: numerical integration methods in simulation).
+﻿# SIM Practice 1 (exercice 1: inclined plane with numerical integration methods in simulation).
 Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 1, exercise 1. Grade 8.5.
 
 An inclined plane had to be simulated with a mass, also inclined, subject to the force of two springs, using numerical integration methods.

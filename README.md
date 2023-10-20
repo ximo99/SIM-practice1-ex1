@@ -3,6 +3,8 @@ Simulation subject within the Multimedia Engineering degree from the ETSE - Univ
 
 An inclined plane had to be simulated with a mass, also inclined, subject to the force of two springs, using numerical integration methods.
 
+🎞️ Vídeo with the result: https://www.youtube.com/watch?v=xEUnrd95nZI
+
 ![Descriptive image of the exercise.](https://github.com/ximo99/SIM-practice1-ex1/blob/main/ex1-photo.jpg)
 
 ### ENGLISH
